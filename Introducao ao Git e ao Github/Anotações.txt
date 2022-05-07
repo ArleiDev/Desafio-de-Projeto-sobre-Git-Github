@@ -1,8 +1,0 @@
-Nesse curso tive uma introducao
-para utilizacao do Git e o Github
-
-1-Comando para criacao de pasta: (mkdir)
-2-Comando para introducao de pasta: (cd)
-3-Comando para voltar da pasta: (cd ..)
-4-Comando para visualizar os status do git: (Git status)
-5-Comando para listagem (dir)
